@@ -15,6 +15,8 @@ These are the tools and dev tools you will need to install (or use):
 
 ## Dev tools
 
+- [tsrc](https://dmerejkowsky.github.io/tsrc/)
+- [direnv](https://direnv.net/)
 - [poetry](https://python-poetry.org/)
 - [docker](https://docs.docker.com/get-docker/)
 - [docker compose](https://docs.docker.com/compose/install/)
@@ -25,5 +27,9 @@ These are the tools and dev tools you will need to install (or use):
 ## FAQ
 
 > I don't have access to tool X, what should I do?
+
+Send an email to your contact o ping someone in the `_general` channel on slack.
+
+> I don't know how to use tool X, what should I do?
 
 Send an email to your contact o ping someone in the `_general` channel on slack.
