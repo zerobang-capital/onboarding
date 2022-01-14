@@ -23,6 +23,7 @@ These are the tools and dev tools you will need to install (or use):
 - [python](https://www.python.org/downloads/)
 - [node & npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [gcloud sdk](https://cloud.google.com/sdk/docs/install)
+- [direnv](https://direnv.net/)
 
 ## FAQ
 
